@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8B72C0-E19C-4E2A-A3A1-486047B415D1}|ChatApp\\Client.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\chatapp\\chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A8B72C0-E19C-4E2A-A3A1-486047B415D1}|ChatApp\\Client.csproj|solutionrelative:chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8B72C0-E19C-4E2A-A3A1-486047B415D1}|ChatApp\\Client.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\chatapp\\chatapp\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8B72C0-E19C-4E2A-A3A1-486047B415D1}|ChatApp\\Client.csproj|solutionrelative:chatapp\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ChatApp\\ChatApp\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Server\\Server.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ChatApp\\ChatApp\\Server\\Server.cs",
+              "RelativeToolTip": "ChatApp\\Server\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:36:12.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T17:36:05.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
